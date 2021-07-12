@@ -5,6 +5,9 @@ body{
 	background-color: rgb(8, 1, 1);
 	color: white;
 }
+#tip a{
+	text-decoration: none;
+}
 
 #tip{
 	border: 1px solid black;
